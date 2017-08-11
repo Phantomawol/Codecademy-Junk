@@ -1,6 +1,7 @@
 When importing datetime you need to use from and import
 
-#This will import datetime then assign the variable now to datetime.now()
+    #This will import datetime then assign the variable now to datetime.now()
 from datetime import datetime
-now = datetime.now() #Assign the variable now to datetime.now()
-print(now) #This will print out the date then time
+now = datetime.now()    #Assign the variable now to datetime.now()
+
+print(now)              #This will print out the date then time
